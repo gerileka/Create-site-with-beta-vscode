@@ -1,1 +1,1 @@
-# Create-site-with-beta-vscode
+# Connecting people
